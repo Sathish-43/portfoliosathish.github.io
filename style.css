@@ -1,0 +1,75 @@
+body{
+    background-color: #E4ECEF;
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    color: #ffe715;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: #ffe715; 
+}
+.nav-link{
+    color: #ffe715;
+    font-weight: bold;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+
+.nav-link:hover{
+    background-color: #ffe715;
+    color: #17242a;
+    
+}
+.man:hover{
+    box-shadow: 2px 3px 28px 8px #bbae38;
+    transition: 0.7s;
+}
+.bt1{
+    background-color: #18E559 ;
+    color: #17242a;
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right:20px; 
+    padding-top:10px ;
+    padding-bottom: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+   
+}
+.bt1:hover{
+    color: #17242a;
+    box-shadow: 2px 3px 28px 8px #5B6365;
+    transition: 0.7s;
+}
+.welcomemsg{
+   background-color: #71C5FC ;
+    padding: 5px;
+    border-radius: 10px;
+}
+.welcomemsg:hover{
+    box-shadow: 2px 3px 28px 8px #5B6365 ;
+    transition: 0.7s;
+}
+.linkedin{
+    text-decoration: none;
+    color: #17242a;
+    font-weight: 400;
+}
+.linkedin:hover{
+    color: #17242a;
+}
+.col{
+    color: #000304;
+}
+.abme{
+    color: #5B6365;
+}
+.col-2{
+    color: white;
+}
+.intro:hover{
+    box-shadow: 2px 3px 28px 8px #5B6365 ;
+    transition: 0.7s;
+}
